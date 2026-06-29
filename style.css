@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+color: goldenrod;
+
+}  
+li{
+    color:red;
+}
+#html{
+    color: azure;
+}
+
+#curtidas{
+background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 20px 40px; /* Maior */
+  border-radius: 12px;
+  font-size: 24px;    /* Texto maior */
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
